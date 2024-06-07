@@ -13,4 +13,8 @@ class Calculator{
         }
         return a / b;
     }
+
+    static factorial(a:number){
+        // Todo Factorial Logic
+    }
 }

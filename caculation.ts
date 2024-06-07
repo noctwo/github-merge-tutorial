@@ -10,4 +10,8 @@ class Calculator{
     static devide (a:number, b:number){
         return a / b;
     }
+
+    static factorial(a:number){
+        // Todo Factorial Logic
+    }
 }

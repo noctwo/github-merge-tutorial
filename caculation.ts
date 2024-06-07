@@ -9,7 +9,7 @@ class Calculator{
 
     static devide (a:number, b:number){
         if (b === 0){
-            console.log("division by zero is prohibited");
+            console.log("division by zero is totaly forbidden");
         }
         return a / b;
     }

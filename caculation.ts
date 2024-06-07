@@ -6,4 +6,8 @@ class Calculator{
     static subtract(a:number, b:number){
         return a -b;
     }
+
+    static devide (a:number, b:number){
+        return a / b;
+    }
 }
